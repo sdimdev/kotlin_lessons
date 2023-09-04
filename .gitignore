@@ -1,4 +1,5 @@
-/.idea
-/.gradle
 /build
-/m1lesson1/build/
+/.gradle
+/.idea
+/m1lesson1/build
+/m1lesson1/.gradle
